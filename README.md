@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @ros4ry
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## About Me
 
-<!---
-ros4ry/ros4ry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello, my name is Ross Sommers. 
+
+I am Jefferson City, Missouri and I am an economics major. 
+
+My favorite movie is [Argo](https://en.wikipedia.org/wiki/Argo_(2012_film)). 
+
+My favorite rapper is [Snoop Dogg](https://snoopdogg.com/). 
+
+I hope you enjoy my page. 
+
