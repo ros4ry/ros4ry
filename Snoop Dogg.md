@@ -1,6 +1,10 @@
 ## My favorite rapper is Snoop Dogg
 
+Snoop Dogg is my favorite rapper, and it's easy to see why. He has the best:
 
+* Flow
+* Style
+* Swagger
 
 [Home Page][home]
 
