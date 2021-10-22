@@ -2,7 +2,7 @@
 
 Hello, my name is Ross Sommers. 
 
-I am from Jefferson City, Missouri and I am an economics major. 
+I am from [Jefferson City][jeff city], Missouri and I am an economics major. 
 
 My favorite movie is [Argo](https://en.wikipedia.org/wiki/Argo_(2012_film)). 
 
@@ -10,3 +10,4 @@ My favorite rapper is [Snoop Dogg](https://snoopdogg.com/).
 
 I hope you enjoy my page. 
 
+[jeff city]: Jefferson City.md
