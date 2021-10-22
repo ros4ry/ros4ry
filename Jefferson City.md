@@ -6,6 +6,8 @@ Jefferson City has been the capital of Missouri since 1821.
 
 The best part about Jefferson City is the old state penitentiary. 
 
+![jefferson city](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Jefferson_City.jpg/250px-Jefferson_City.jpg)
+
 Click [here](https://en.wikipedia.org/wiki/Jefferson_City,_Missouri#History) to learn more about Jefferson City. 
 
 [Home page][home]
