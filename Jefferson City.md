@@ -10,4 +10,4 @@ Click [here](https://en.wikipedia.org/wiki/Jefferson_City,_Missouri#History) to 
 
 [Home page][home]
 
-[home]: 
+[home]: https://github.com/ros4ry/ros4ry/blob/main/README.md
