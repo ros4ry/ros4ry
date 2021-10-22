@@ -8,7 +8,11 @@ My favorite movie is [Argo][argo page].
 
 My favorite rapper is [Snoop Dogg][snoop page]. 
 
-I hope you enjoy my page. 
+Click on the links to visit that respective page. 
+
+To return to this page, click "Home Page" at the bottom of each page. 
+
+Enjoy! 
 
 [jeff city]: https://github.com/ros4ry/ros4ry/blob/main/Jefferson%20City.md
 [argo page]: https://github.com/ros4ry/ros4ry/blob/main/Argo.md
