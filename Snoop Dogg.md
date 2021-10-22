@@ -15,7 +15,7 @@ My favorite Snoop Dogg quote is:
 
 Pretty good stuff. 
 
-!(https://upload.wikimedia.org/wikipedia/commons/1/17/Snoop_Dogg_2019_by_Glenn_Francis.jpg)
+![Snoop Dogg](https://upload.wikimedia.org/wikipedia/commons/1/17/Snoop_Dogg_2019_by_Glenn_Francis.jpg)
 
 [Home Page][home]
 
