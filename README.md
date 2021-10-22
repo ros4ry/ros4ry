@@ -10,4 +10,4 @@ My favorite rapper is [Snoop Dogg](https://snoopdogg.com/).
 
 I hope you enjoy my page. 
 
-[jeff city]: Jefferson City.md
+[jeff city]: https://github.com/ros4ry/ros4ry/blob/main/Jefferson%20City.md
